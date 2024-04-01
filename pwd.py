@@ -1,1 +1,1 @@
-pwd = 'dev'
+pwd = 'prod'
