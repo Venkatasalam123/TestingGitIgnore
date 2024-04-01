@@ -1,1 +1,1 @@
-pwd = 'prod1'
+pwd = 'prod'
