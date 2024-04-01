@@ -1,1 +1,1 @@
-print('dev prod')
+print('dev')
